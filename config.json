@@ -1,0 +1,10 @@
+{
+  "language": "en",
+  "chunk_size": 700,
+  "output_format": "mp3",
+  "mp3_bitrate": 192,
+  "use_gpu": true,
+  "output_directory": "outputs",
+  "voices_directory": "voices",
+  "jobs_directory": "jobs"
+}

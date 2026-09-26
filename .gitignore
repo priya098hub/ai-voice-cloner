@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+models/
+voices/
+jobs/
+outputs/
+logs/
+*.wav
+*.mp3
+*.m4a
+config.local.json
